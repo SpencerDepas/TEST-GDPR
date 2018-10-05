@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 
-/* .lato{
+.lato{
     font-family: 'Lato';
     font-style: 'Lato-Black';
     font-weight: 900;
-} */
+}
 
 @font-face {
     font-family: 'Lato';
@@ -36,16 +36,29 @@
 
 }
 
+.headerbutton{
+    background: rgb(31, 101, 231);
+    color: white;
+    font-size:x-small;
+    height:35px;
+}
+
 .closedealbutton{
     width:130px;
+    background: salmon;
+    color: white;
+    font-size:smaller;
+    height:45px;
 }
 
 .enteremail{
     width:220px;
-    margin-right: 20px
+    height:45px;
+    margin-right: 20px;
+    font-size:smaller;
 }
 
- 
+
  
 
  
