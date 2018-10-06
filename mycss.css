@@ -52,11 +52,19 @@
 }
 
 .enteremail{
-    width:220px;
+    width:260px;
     height:45px;
     margin-right: 20px;
     font-size:smaller;
 }
+
+.container{
+    text-align: center;
+}
+
+.center-me {
+    margin: 0 auto;
+  }
 
 
  
