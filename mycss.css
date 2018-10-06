@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 
+.body {
+    margin: 20px;
+}
 .lato{
     font-family: 'Lato';
     font-style: 'Lato-Black';
@@ -86,9 +89,37 @@
     margin: 0 auto;
 }
 
+.offeringiconpadding {
+    margin-top: 55px;
+    margin-bottom: 35px
+}
 
+.iconpaddingbulb {
+    margin-top: 55px;
+    margin-bottom: 35px
+}
+
+.iconpaddingcontract {
+    margin-top: 50px;
+    margin-bottom: 20px
+}
+
+.bottommargin {
+    margin-bottom: 30px
+}
+
+.greyText {
+    color: gray;
+}
+
+p.light {
+    font-weight: lighter;
+}
  
 
+bacon {
+    font-weight: lighter;
+}
  
 
  
