@@ -108,6 +108,11 @@
     margin-bottom: 30px
 }
 
+.darkgreyText {
+    color: darkslategray;
+}
+
+
 .greyText {
     color: gray;
 }
